@@ -21,8 +21,8 @@ An OpenWeatherMap API key (free tier available).
 Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/weather-forecast-app.git
-cd weather-forecast-app
+git clone https://github.com/peatahaya/weatherApp.git
+cd weatherApp
 
 
 Create a virtual environment (optional but recommended):
