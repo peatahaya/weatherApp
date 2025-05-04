@@ -102,4 +102,4 @@ Thanks to OpenWeatherMap for providing a free weather API.
 Inspired by practical Python projects for learning API integration.
 
 Contact
-For questions or feedback, open an issue or contact the maintainer at [your.email@example.com].
+For questions or feedback, open an issue or contact the maintainer at piotrbi3licki@icloud.com.
